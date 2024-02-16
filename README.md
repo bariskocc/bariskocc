@@ -6,4 +6,4 @@ I take care to write code by adopting software principles such as Clean Code, SO
 
 I am also interested in the following technologies; Azure, Micro Services, CQRS, RabbitMQ, Docker, Redis.
 
-<img src="(https://github.com/bariskocc/bariskocc/blob/main/image.png)https://github.com/bariskocc/bariskocc/blob/main/image.png" width="auto">
+![bg4](https://github.com/bariskocc/bariskocc/blob/main/image.png)
