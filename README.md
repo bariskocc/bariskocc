@@ -4,5 +4,5 @@ I am a computer engineer and I am especially interested in the .Net Core Framewo
 
 I take care to write code by adopting software principles such as Clean Code, SOLID and I also try to incorporate these patterns into my projects in terms of Design Pattern. 
 
-I am also interested in the following technologies; Azure, Micro Services, CQRS, RabbitMQ, Docker, Redis.
+I am also interested in the following technologies; Azure, Micro Services, DDD, CQRS, RabbitMQ, Docker, Redis.
 
